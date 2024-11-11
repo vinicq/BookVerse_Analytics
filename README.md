@@ -31,4 +31,7 @@ Os dados utilizados neste projeto foram obtidos do Kaggle através do dataset [T
 
 ## 🚀 Como Executar
 
-1. Clone este repositório:
+1. Clone este repositório: 
+```bash
+git clone https://github.com/vinicq/BookVerse_Analytics.git
+```
