@@ -1,0 +1,50 @@
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+.temp/
+
+# Arquivos específicos do Streamlit
+.streamlit/secrets.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Arquivos locais de configuração
+config.local.yaml
+settings.local.json
+
+# Arquivos de ambiente
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
